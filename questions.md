@@ -1,3 +1,5 @@
 - sales team is filling all details? not the client itslef?
 - in scheduled trip, start fo app has 2 arrows, which one to follow first?
 - similarly in scheduled trip select opm, it has 2 arrows on right side, payments and cost revenue model, which one to occur first? Also is the payment done once or on regular basis for scheduled trips?
+- what is invoice
+- what is mis?
